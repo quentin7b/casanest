@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_bootstrap_app/gen/strings.g.dart';
-import 'package:flutter_bootstrap_app/router.dart';
+import 'package:casanest/gen/strings.g.dart';
+import 'package:casanest/router.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
